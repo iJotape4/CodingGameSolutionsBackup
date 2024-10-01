@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\ajuan\AppData\Local\JetBrains\Rider2024.1\resharper-host\temp\Rider\vAny\CoverageData\_CodingGameSolutionsBackup.-1786009014\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5b2df998_002D389e_002D4061_002Da052_002Dee5554f48cac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HandlesPositiveAndNegativeInput" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.SimpleTestCase&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=faba772e_002D75d5_002D4ad6_002Db65d_002Df4fddbcb9ccf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.OnlyNegativeNumbers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.ChooseTheRightTemperature&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.SimpleTestCase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.ChooseTheRightTemperature2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.ComplexTestCase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.NoTemperature&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
