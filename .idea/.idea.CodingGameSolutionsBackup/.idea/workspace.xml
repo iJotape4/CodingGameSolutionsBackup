@@ -7,7 +7,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="" />
+    <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Temperatures/test_Temperatures.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Temperatures/test_Temperatures.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_Temperatures.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_Temperatures.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +128,7 @@
       <workItem from="1727741589399" duration="2003000" />
       <workItem from="1727743635976" duration="913000" />
       <workItem from="1727744571156" duration="16000" />
-      <workItem from="1727744599245" duration="305000" />
+      <workItem from="1727744599245" duration="613000" />
     </task>
     <servers />
   </component>
