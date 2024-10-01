@@ -263,6 +263,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="tests\" />
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="src\Temperatures\Temperatures.h" />
   </ItemGroup>
   <ItemDefinitionGroup />
