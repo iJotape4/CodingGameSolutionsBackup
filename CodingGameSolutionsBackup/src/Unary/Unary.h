@@ -4,6 +4,5 @@
 class Unary
 {
 public:
-    std::string ComputeInput(std::istream& input);
-
+    std::string ComputeInput(std::string& input);
 };
