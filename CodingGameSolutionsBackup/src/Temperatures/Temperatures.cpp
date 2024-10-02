@@ -1,4 +1,4 @@
-﻿// Exercise Link: https://www.codingame.com/ide/puzzle/temperatures
+﻿//Puzzle Source: https://www.codingame.com/ide/puzzle/temperatures
 
 #include "Temperatures.h"
 #include <cmath>
