@@ -7,7 +7,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="" />
+    <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/Unary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/Unary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/test_unary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/test_unary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +34,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/test_unary.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.6/build/native/include/gtest/gtest.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -32,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "C++ Project.CodingGameSolutionsBackup.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "faba772e-75d5-4ad6-b65d-f4fddbcb9ccf.executor": "Debug",
@@ -45,6 +62,9 @@
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "C++"
+    ],
     "rider.external.source.directories": [
       "C:\\Users\\ajuan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
       "C:\\Users\\ajuan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
@@ -121,6 +141,7 @@
       <workItem from="1727743635976" duration="913000" />
       <workItem from="1727744571156" duration="16000" />
       <workItem from="1727744599245" duration="1306000" />
+      <workItem from="1727835453550" duration="833000" />
     </task>
     <servers />
   </component>
@@ -128,10 +149,10 @@
     <option name="version" value="3" />
   </component>
   <component name="UnitTestsCoverage.Settings">
-    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="coveragePercentColumnWidth" value="42" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="101" />
+    <option name="symbolColumnWidth" value="32" />
     <coverage-tree-state>
       <expand />
       <select />

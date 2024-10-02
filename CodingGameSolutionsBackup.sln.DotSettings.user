@@ -13,5 +13,6 @@
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.ChooseTheRightTemperature2&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.ComplexTestCase&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::TemperatureTest.NoTemperature&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_unary.SimpleTestCase&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
