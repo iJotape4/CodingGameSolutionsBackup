@@ -9,6 +9,25 @@
   <component name="ChangeListManager">
     <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.h" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/test_NumberOfDigits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/test_NumberOfDigits.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,32 +51,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;C++ Project.CodingGameSolutionsBackup.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;faba772e-75d5-4ad6-b65d-f4fddbcb9ccf.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C++ Project.CodingGameSolutionsBackup.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "faba772e-75d5-4ad6-b65d-f4fddbcb9ccf.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;C++&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "C++"
     ],
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\ajuan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\ajuan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\ajuan\\AppData\\Local\\Symbols\\src&quot;
+    "rider.external.source.directories": [
+      "C:\\Users\\ajuan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\ajuan\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\ajuan\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C++ Project.CodingGameSolutionsBackup">
     <configuration name="CodingGameSolutionsBackup" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -128,6 +147,7 @@
       <workItem from="1727744571156" duration="16000" />
       <workItem from="1727744599245" duration="1306000" />
       <workItem from="1727835453550" duration="2894000" />
+      <workItem from="1727918470629" duration="630000" />
     </task>
     <servers />
   </component>
@@ -135,10 +155,10 @@
     <option name="version" value="3" />
   </component>
   <component name="UnitTestsCoverage.Settings">
-    <option name="coveragePercentColumnWidth" value="42" />
+    <option name="coveragePercentColumnWidth" value="30" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="32" />
+    <option name="symbolColumnWidth" value="24" />
     <coverage-tree-state>
       <expand />
       <select />
