@@ -72,7 +72,7 @@ TEST_F(test_number_of_digits, n1283048)
 TEST_F(test_number_of_digits, n824883294)
 {
     int n =824883294;
-    int k = 7;
+    int k = 1;
     std::string result = classFile.computeInput(n,k);
     EXPECT_EQ(result, "767944060");
 }
