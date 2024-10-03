@@ -36,6 +36,8 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
+    <ClCompile Include="src\NumberOfDigits\NumberOfDigits.cpp" />
+    <ClCompile Include="src\NumberOfDigits\test_NumberOfDigits.cpp" />
     <ClCompile Include="src\Temperatures\Temperatures.cpp">
       <AssemblerOutput>NoListing</AssemblerOutput>
       <AssemblerListingLocation>x64\Debug\</AssemblerListingLocation>
@@ -268,6 +270,7 @@
     <Folder Include="tests\" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\NumberOfDigits\NumberOfDigits.h" />
     <ClInclude Include="src\Temperatures\Temperatures.h" />
     <ClInclude Include="src\Unary\Unary.h" />
   </ItemGroup>
