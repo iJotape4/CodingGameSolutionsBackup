@@ -16,14 +16,7 @@
       <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/unsuccessfulbuild" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" afterDir="false" />
@@ -34,11 +27,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/Repositories/CodingGameSolutionsBackup/CodingGameSolutionsBackup/src/Temperatures/Temperatures.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Programas/Visual Studio/VC/Tools/MSVC/14.38.33130/include/xstring" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/test_unary.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.6/build/native/include/gtest/gtest.h" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -54,7 +110,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "C++ Project.CodingGameSolutionsBackup.executor": "Debug",
+    "C++ Project.CodingGameSolutionsBackup.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "faba772e-75d5-4ad6-b65d-f4fddbcb9ccf.executor": "Debug",
     "git-widget-placeholder": "master",
@@ -147,7 +203,7 @@
       <workItem from="1727744571156" duration="16000" />
       <workItem from="1727744599245" duration="1306000" />
       <workItem from="1727835453550" duration="2894000" />
-      <workItem from="1727918470629" duration="630000" />
+      <workItem from="1727918470629" duration="2043000" />
     </task>
     <servers />
   </component>

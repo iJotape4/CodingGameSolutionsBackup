@@ -4,6 +4,6 @@
 class NumberOfDigits
 {
 public:
-    std::string computeInput(std::string &n, std::string &k);
+    std::string computeInput(int& n, int& k);
     
 };

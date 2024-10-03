@@ -20,5 +20,12 @@
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_unary.Message_From_Chuck_Norris&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n12&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n219&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n4218&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n10000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n248919&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n841772&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n1283048&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n824883294&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
