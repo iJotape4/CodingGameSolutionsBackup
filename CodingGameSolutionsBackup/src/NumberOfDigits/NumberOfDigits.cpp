@@ -6,18 +6,10 @@
 
 std::string NumberOfDigits::computeInput(int& n, int& k)
 {
-    int c = 0, digitsCounter=0;
-    while(n>=c)
-    {
-        for(char ch : std::to_string(c))
-        {
-            int w = ch-'0';
-            // std::cerr << "hello";
-            if(w == k)
-                digitsCounter++;
-        }
-        c++;  
+    int count = 0;
+    for (long long i = 1; i <= n; i *= 10) {
+        long long divider = i * 10;
+        count += (n / divider) * i + std::min(std::max(n % divider - k * i + 1, 0LL), i);
     }
-    
-    return std::to_string(digitsCounter);
+    return std::to_string( count);
 }

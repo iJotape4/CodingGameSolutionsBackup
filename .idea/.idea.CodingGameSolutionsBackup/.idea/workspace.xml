@@ -8,14 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_NumberOfDigits.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +121,7 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C++ Project.CodingGameSolutionsBackup">
     <configuration name="CodingGameSolutionsBackup" type="CppProject" factoryName="C++ Project">
       <configuration_1>
         <option name="CONFIGURATION" value="Debug" />
@@ -199,6 +192,7 @@
       <workItem from="1727744599245" duration="1306000" />
       <workItem from="1727835453550" duration="2894000" />
       <workItem from="1727918470629" duration="2204000" />
+      <workItem from="1727920730336" duration="270000" />
     </task>
     <servers />
   </component>
