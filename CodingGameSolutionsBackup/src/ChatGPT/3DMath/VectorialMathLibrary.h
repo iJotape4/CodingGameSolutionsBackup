@@ -27,6 +27,6 @@ public:
     };
     
 public:
-    float DotProduct(FVector vector1, FVector vector2, FVector center = FVector::Zero());
+    float DotProduct(FVector vector1, FVector vector2, FVector referencePoint = FVector::Zero());
     FVector CrossProduct(FVector a, FVector b);
 };

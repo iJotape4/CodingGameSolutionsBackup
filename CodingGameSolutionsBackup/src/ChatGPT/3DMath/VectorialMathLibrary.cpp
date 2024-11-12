@@ -1,10 +1,10 @@
 ﻿#include "VectorialMathLibrary.h"
 
-float VectorialMathLibrary::DotProduct(FVector vector1, FVector vector2, FVector center)
+float VectorialMathLibrary::DotProduct(FVector vector1, FVector vector2, FVector referencePoint)
 {
-        FVector a = (vector1 -center ).Normalize();
-        FVector b = (vector2 -center ).Normalize();
-        return a.x * b.x + a.y * b.y + a.z * b.z;
+        FVector a = (vector1 -referencePoint ).Normalize();
+        FVector b = (vector2 -referencePoint ).Normalize();
+        return (a.x * b.x) + (a.y * b.y) + (a.z * b.z);
 }
 
 VectorialMathLibrary::FVector VectorialMathLibrary::CrossProduct(FVector a, FVector b)
