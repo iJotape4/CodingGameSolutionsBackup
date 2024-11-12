@@ -27,6 +27,9 @@ public:
     };
     
 public:
-    float DotProduct(FVector vector1, FVector vector2, FVector referencePoint = FVector::Zero());
-    FVector CrossProduct(FVector a, FVector b);
+    static float DotProduct(FVector vector1, FVector vector2, FVector referencePoint = FVector::Zero());
+    static FVector CrossProduct(FVector a, FVector b);
+    static  float DotProductNormalized(FVector a, FVector b, FVector referencePoint = FVector::Zero());
+
+    static float RadiansToDegrees(float radians);
 };
