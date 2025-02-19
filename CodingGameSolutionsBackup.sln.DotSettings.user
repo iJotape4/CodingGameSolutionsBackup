@@ -49,4 +49,5 @@
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_angle_between_vectors.angle_between_parallel_vectors&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_angle_between_vectors.angle_between_oblique_vectors&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

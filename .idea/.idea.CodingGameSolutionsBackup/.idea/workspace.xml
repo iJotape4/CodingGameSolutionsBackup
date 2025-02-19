@@ -8,39 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/CodingGameSolutionsBackup.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/CodingGameSolutionsBackup.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/NumberOfDigits/NumberOfDigits.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/NumberOfDigits.h" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/NumberOfDigits/NumberOfDigits.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/NumberOfDigits/test_NumberOfDigits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/NumberOfDigits/test_NumberOfDigits.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Temperatures/Temperatures.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/Temperatures/Temperatures.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Temperatures/Temperatures.h" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/Temperatures/Temperatures.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Temperatures/test_Temperatures.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/Temperatures/test_Temperatures.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/Unary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/Unary/Unary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/Unary.h" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/Unary/Unary.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/Unary/test_unary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/CodinGame/Unary/test_unary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CodingGameSolutionsBackup.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CodingGameSolutionsBackup.lastbuildstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/NumberOfDigits.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Temperatures.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Unary.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/Unary.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_NumberOfDigits.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_NumberOfDigits.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_Temperatures.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_Temperatures.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_unary.obj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/test_unary.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,29 +83,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;C++ Project.CodingGameSolutionsBackup.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;faba772e-75d5-4ad6-b65d-f4fddbcb9ccf.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Repositories/CodingGameSolutionsBackup/CodingGameSolutionsBackup.sln&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C++ Project.CodingGameSolutionsBackup.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "faba772e-75d5-4ad6-b65d-f4fddbcb9ccf.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Repositories/CodingGameSolutionsBackup/CodingGameSolutionsBackup.sln",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "RiderCppFileTemplatesSettingsId",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;C++&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "C++"
     ]
   }
-}</component>
-  <component name="RunManager" selected="C++ Project.CodingGameSolutionsBackup">
+}]]></component>
+  <component name="RunManager">
     <configuration name="CodingGameSolutionsBackup" type="CppProject" factoryName="C++ Project">
       <configuration_1>
         <option name="CONFIGURATION" value="Debug" />
