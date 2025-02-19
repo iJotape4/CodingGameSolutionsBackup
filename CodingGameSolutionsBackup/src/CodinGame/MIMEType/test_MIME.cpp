@@ -15,7 +15,7 @@ protected:
     std::vector<std::string> sets;
 };
 
-TEST_F(test_MIME, test01)
+TEST_F(test_MIME, SimpleExample)
 {
     elements = 3;
     elementsToAnalize = 3;
@@ -27,3 +27,14 @@ TEST_F(test_MIME, test01)
     EXPECT_EQ(result, "image/gif\nimage/png\ntext/html");
 }
 
+TEST_F(test_MIME, UnknowMYMETypes)
+{
+    elements = 3;
+    elementsToAnalize = 4;
+    sets =
+    {
+        "txt text/plain","xml text/xml","flv video/x-flv"
+    };
+    std::string result = classFile.ComputeInput(elements,elementsToAnalize, sets);
+    EXPECT_EQ(result, "image/gif\nimage/png\ntext/html\ntext/html");
+}
