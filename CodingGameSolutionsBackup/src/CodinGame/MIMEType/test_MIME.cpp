@@ -36,5 +36,5 @@ TEST_F(test_MIME, UnknowMYMETypes)
         "txt text/plain","xml text/xml","flv video/x-flv"
     };
     std::string result = classFile.ComputeInput(elements,elementsToAnalize, sets);
-    EXPECT_EQ(result, "image/gif\nimage/png\ntext/html\ntext/html");
+    EXPECT_EQ(result, "text/plain\ntext/xml\ntext/html\nvideo/x-flv\nUNKNOWN");
 }
