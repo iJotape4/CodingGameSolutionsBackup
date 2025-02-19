@@ -1,5 +1,19 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\ajuan\AppData\Local\JetBrains\Rider2024.1\resharper-host\temp\Rider\vAny\CoverageData\_CodingGameSolutionsBackup.-1786009014\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ACejekep_002Easm_002Fl_003AC_0021_003FUsers_003Fajuan_003FAppData_003FLocal_003FTemp_003FSandboxFiles_003FPiligup_003FCejekep_002Easm/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2bb6c30e_002D6484_002D40e3_002Da996_002D3c3415217218/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="test01 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_find_the_point.test01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_find_the_point.test0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_find_the_point.test02&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.perpendicular_vectors&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cb874667_002D67b7_002D4dc0_002D87fd_002D81a00c9a430c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="test01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_find_the_point.test01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
 	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=faba772e_002D75d5_002D4ad6_002Db65d_002Df4fddbcb9ccf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
@@ -23,5 +37,16 @@
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n841772&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n1283048&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_number_of_digits.n824883294&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_find_the_point.test01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.non_perpendicular_vectors&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.perpendicular_vectors&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.parallel_vectors&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.zero_vector_perpendicular&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.negative_components&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.same_vector_self_perpendicular&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_vector_math.small_and_large_vectors&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_angle_between_vectors.angle_between_perpendicular_vectors&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_angle_between_vectors.angle_between_parallel_vectors&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::A33B2B8C-0D25-4453-920B-ACEB59D9D3E4::Windows,Version=v10.0.22621::test_angle_between_vectors.angle_between_oblique_vectors&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
