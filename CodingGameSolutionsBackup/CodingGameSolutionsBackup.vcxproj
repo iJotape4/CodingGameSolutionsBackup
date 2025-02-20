@@ -114,8 +114,12 @@
     </ClCompile>
     <ClCompile Include="src\ChatGPT\3DMath\PerpendicularVectors\test_PerpendicularVectors.cpp" />
     <ClCompile Include="src\ChatGPT\3DMath\VectorialMathLibrary.cpp" />
+    <ClCompile Include="src\CodinGame\MIMEType\MIME.cpp" />
+    <ClCompile Include="src\CodinGame\MIMEType\test_MIME.cpp" />
     <ClCompile Include="src\HackerRank\FindThePoint\FindThePoint.cpp" />
     <ClCompile Include="src\HackerRank\FindThePoint\test_FindThePoint.cpp" />
+    <ClCompile Include="src\HackerRank\HandShake\HandShake.cpp" />
+    <ClCompile Include="src\HackerRank\HandShake\Test_HandShake.cpp" />
     <ClCompile Include="src\test_main.cpp.cpp">
       <AssemblerOutput>NoListing</AssemblerOutput>
       <AssemblerListingLocation>x64\Debug\</AssemblerListingLocation>
@@ -195,14 +199,15 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="src\CodinGame\" />
     <Folder Include="tests\" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\ChatGPT\3DMath\AngleBetweenVectors\AngleBetweenVectors.h" />
     <ClInclude Include="src\ChatGPT\3DMath\PerpendicularVectors\PerpendicularVectors.h" />
     <ClInclude Include="src\ChatGPT\3DMath\VectorialMathLibrary.h" />
+    <ClInclude Include="src\CodinGame\MIMEType\MIME.h" />
     <ClInclude Include="src\HackerRank\FindThePoint\FindThePoint.h" />
+    <ClInclude Include="src\HackerRank\HandShake\HandShake.h" />
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

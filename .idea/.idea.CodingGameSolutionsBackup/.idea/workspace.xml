@@ -9,7 +9,21 @@
   <component name="ChangeListManager">
     <list default="true" id="f37cf29a-751d-4b36-acac-3b9454d4e0ab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/CodingGameSolutionsBackup.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/CodingGameSolutionsBackup.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/HackerRank/HandShake/Test_HandShake.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/src/HackerRank/HandShake/Test_HandShake.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/Cl.items.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.secondary.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/CodingGa.A33B2B8C.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CodingGameSolutionsBackup/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/x64/Debug/CodingGameSolutionsBackup.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/CodingGameSolutionsBackup/src/HackerRank/FindThePoint/FindThePoint.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodingGameSolutionsBackup/src/HackerRank/FindThePoint/test_FindThePoint.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -59,7 +74,7 @@
     "C++ Project.CodingGameSolutionsBackup.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "faba772e-75d5-4ad6-b65d-f4fddbcb9ccf.executor": "Debug",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Handshake",
     "last_opened_file_path": "D:/Repositories/CodingGameSolutionsBackup/CodingGameSolutionsBackup.sln",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -150,6 +165,8 @@
       <workItem from="1731373215531" duration="5508000" />
       <workItem from="1731379923381" duration="5058000" />
       <workItem from="1739924766650" duration="89000" />
+      <workItem from="1739932841421" duration="3477000" />
+      <workItem from="1740012285966" duration="2008000" />
     </task>
     <servers />
   </component>
@@ -166,6 +183,7 @@
       <select />
     </coverage-tree-state>
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
