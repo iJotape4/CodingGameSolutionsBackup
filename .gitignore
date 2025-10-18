@@ -93,3 +93,10 @@ googlemock/gtest
 /CMakeCache.txt
 /ALL_BUILD.vcxproj.filters
 /ALL_BUILD.vcxproj
+*.pdb
+.idea/.idea.CodingGameSolutionsBackup/.idea/projectSettingsUpdater.xml
+.idea/.idea.CodingGameSolutionsBackup/.idea/workspace.xml
+*.tlog
+.idea
+x64
+*.vcxproj
